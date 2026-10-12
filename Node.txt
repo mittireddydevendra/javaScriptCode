@@ -1,0 +1,37 @@
+APi Application Programming Interface
+
+=>what is an API ?
+- it is a way for two programs communicate with each other.
+- with node js we can build real world apis.
+- also we can build super fast real-time applications with node.js.
+
+=> Node JS :
+-Node js is a runtime enviroment for running javaScript code
+ because it has V8 Engine.
+-this enviroment is little different than browser js.
+
+-Node JS is a runtime enviroment.
+-it is an ideal choice for building:
+  -Highly Scalable
+  -Data Realted
+  -Real-time Applications
+
+why: 
+    1.Super Fast
+    2.Highly Scalable.
+    Built 2x fast with few people (2 developers)
+    40% fewer files
+    Approx 1500 lines of code (3x less)
+
+==> Module is a piece of code that performs a specific task.
+ => For examle, imagine you are building a car.
+
+ REPL: Read, Eval, Print, Loop.
+
+ setImmediate(): it is used to execute setImmediate.
+ setInterval(): it is used to define a interval.
+ setTimeout(): it is used to excute a one-time callback 
+               after delay milliseconds.
+
+Express js: A Minimalistic node.js framework for building 
+            web Applications.
