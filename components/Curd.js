@@ -17,7 +17,7 @@ console.log("Read: ",employee)
 //Update-find
 let emp= employee.find(employees=>employees.id===2);
 if(emp){
-    employee.salary =40000;
+    emp.salary =40000;
 }
 console.log("Update: ",employee)
 
